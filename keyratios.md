@@ -1,7 +1,3 @@
-# how to calculate ROIC, ROE, P/e, EV/EBIT, D/E  
-  
-# Answer (Sonar Huge):  
-Calculating various financial ratios involves understanding the specific formulas and components for each ratio. Here’s a breakdown of how to calculate ROIC, ROE, P/E, EV/EBIT, and D/E:
 
 ### 1. **Return on Invested Capital (ROIC)**
 
