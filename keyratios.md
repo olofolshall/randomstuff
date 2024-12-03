@@ -64,5 +64,28 @@
   - Total Debt = $20,000,000
   - Total Shareholders’ Equity = $50,000,000
   - D/E = $20,000,000 / $50,000,000 = 0.4 or 40%
+**Return on Capital Employed (ROCE)** is a financial ratio used to measure a company's profitability and efficiency in using its capital. Here’s a detailed explanation of how to calculate ROCE:
+
+### 6. **ROCE Formula**:
+$$ \text{ROCE} = \frac{\text{EBIT}}{\text{Capital Employed}} $$
+
+### **Components**:
+- **EBIT (Earnings Before Interest and Taxes)**: This is the company's operating income, which is calculated by subtracting the cost of goods sold and operating expenses from revenues.
+- **Capital Employed**: This can be calculated in two ways:
+  1. **Total Assets - Current Liabilities**: This method subtracts current liabilities from total assets to find the capital employed.
+  2. **Equity + Non-current Liabilities**: Alternatively, capital employed can be calculated by adding shareholder’s equity and total debt (including both short-term and long-term debts).
+
+### **Example Calculation**:
+- **EBIT**: $10,000,000
+- **Total Assets**: $150,000,000
+- **Current Liabilities**: $90,000,000
+- **Capital Employed**: $150,000,000 - $90,000,000 = $60,000,000
+- **ROCE**: $10,000,000 / $60,000,000 = 0.1667 or 16.67%
+
+### **Interpretation**:
+- **Higher ROCE**: Indicates more effective use of capital and better profitability.
+- **Lower ROCE**: May suggest poor company management or a less profitable business.
+
+ROCE is particularly useful for comparing companies within the same industry, especially in capital-intensive sectors such as telecom, oil & gas, and manufacturing. It provides a clear picture of how efficiently a company generates profits from its capital. However, it has limitations, such as not considering risk factors and focusing on short-term achievements.
 
 These calculations provide a comprehensive understanding of a company’s financial performance and position.
